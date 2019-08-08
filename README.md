@@ -25,12 +25,12 @@ The paper can be downloaded [here](https://arxiv.org/abs/1908.02231).
 
 Please cite the above publication if you compare ARCF tracker in your work. Bibtex entry:
 
-@Inproceedings{Huang2019ICCV,
-title={Learning Aberrance Repressed Correlation Filters for Real-Time UAV Tracking},
-author={Huang, Ziyuan and Fu, Changhong and Li, Yiming and Lin, Fuling and Lu, Peng},
-booktitle={ICCV},
-year={2019},
-}
+    @Inproceedings{Huang2019ICCV, 
+    title={Learning Aberrance Repressed Correlation Filters for Real-Time UAV Tracking},  
+    author={Huang, Ziyuan and Fu, Changhong and Li, Yiming and Lin, Fuling and Lu, Peng}, 
+    booktitle={ICCV}, 
+    year={2019},  
+    }
 
 # Contact 
 Ziyuan Huang
