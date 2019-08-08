@@ -54,21 +54,21 @@ and the Demo should be running.
 
 ### UAV123@10fps
 
-![](.\results\hand-error-OPE-UAV123.png)
+![](./results/hand-error-OPE-UAV123.png)
 
-![](.\results\hand-overlap-OPE-UAV123.png)
+![](./results/hand-overlap-OPE-UAV123.png)
 
 ### UAVDT
 
-![](.\results\hand-error-OPE-UAVDT.png)
+![](./results/hand-error-OPE-UAVDT.png)
 
-![](.\results\hand-overlap-OPE-UAVDT.png)
+![](./results/hand-overlap-OPE-UAVDT.png)
 
 ### DTB70
 
-![](.\results\hand-error-OPE-DTB.png)
+![](./results/hand-error-OPE-DTB.png)
 
-![](.\results\hand-overlap-OPE-DTB.png)
+![](./results/hand-overlap-OPE-DTB.png)
 
 
 
