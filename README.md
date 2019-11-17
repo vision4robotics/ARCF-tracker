@@ -46,7 +46,8 @@ Email: changhong.fu@tongji.edu.cn
 Running demonstration of this tracker is very easy so long as you have MATLAB. Just download the package, extract it and follow two steps:
 1. Config seq name in `configSeqs_demo_for_ARCF.m`,
 2. Run `ARCF_Demo_single_seq.m`,
-and the Demo should be running.
+and the ARCF-H Demo should be running.
+3. If want to run ARCF-H, comment 50th line of `ARCF_Demo_single_seq.m` and uncomment 52th line.
 
 >This code is compatible with UAV123 benchmark. Therefore, if you want to run it in benchmark, just put ARCF folder in `trackers`, and config sequences and trackers according to instructions from UAV123. This should also do it.
 

@@ -46,8 +46,10 @@ for idxSeq=1:length(seqs)
 
     subS.name = [subS.name '_' num2str(idx)];
     
-    %   Run ARCF- main function
-    res = run_ARCF(subS, 0, 0);
+    %   Run ARCF-H main function
+    res = run_ARCF_H(subS, 0, 0);
+    %   To run ARCF-HC, comment the line above and uncomment the line below
+%     res = run_ARCF(subS, 0, 0);
 
     res.len = subS.len;
     res.annoBegin = subS.annoBegin;
