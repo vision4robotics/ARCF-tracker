@@ -3,7 +3,6 @@
 %   This function is based on STRCF paper.
 %   Details of some parameters are not presented in the paper, you can
 %   refer to BACF/DSST/ECO paper for more details.
-%   To run ARCF-H tracker, simply comment line 24 & 25.
 
 function results = run_ARCF(seq, rp, bSaveImage)
 % Feature specific parameters
